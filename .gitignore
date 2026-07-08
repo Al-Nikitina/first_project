@@ -25,3 +25,4 @@ Thumbs.db  # Windows
 forgit
 forgit.pub
 tmp_data.txt
+.env
